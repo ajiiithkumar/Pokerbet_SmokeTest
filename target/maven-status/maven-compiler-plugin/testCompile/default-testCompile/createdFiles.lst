@@ -1,0 +1,16 @@
+StepDefinitions\kyc.class
+StepDefinitions\Login.class
+StepDefinitions\Footer.class
+StepDefinitions\hooks.class
+StepDefinitions\History.class
+StepDefinitions\GamePlay.class
+StepDefinitions\Profile.class
+utils\ExtentTestManager.class
+pages\Registerpages.class
+StepDefinitions\Register.class
+StepDefinitions\Forgetpassword.class
+helperclass\HelperClass.class
+runner\Testrunner.class
+StepDefinitions\Changepassword.class
+utils\UserPropertiesReader.class
+utils\ExtentManager.class
